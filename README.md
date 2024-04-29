@@ -14,6 +14,9 @@ Podemos **_misturar_** configurações
 * Another item.
 * Here we go again.
 
+***Listas de tarefas***
+
+
 ***Também é possível incorporar listas em listas e adicionar conteúdo entre itens de lista.***
 1. Set up your table and code blocks.
 1. Perform this step.
@@ -42,4 +45,11 @@ As tabelas não fazem parte da especificação principal do Markdown, mas a Adob
 |--- |--- |--- |
 | row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
+
+
+
+***Imagens***   
+
+
+
 
